@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  display: flex;
+  padding: 200px;
+  padding-left: 300px;
 }
 
 .App-logo {
@@ -19,4 +22,14 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.container {
+  text-align: center;
+}
+
+.row {
+  margin-left: 2rem;
+  display: inline-block;
+  margin-top: 20rem
 }
